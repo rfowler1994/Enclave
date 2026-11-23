@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "2d189c2ab4baffdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4205b63133aea34a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fab0a4da77c4d4f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91b8cada0af6a309",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a51dd817d8eb531",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54f72cbd1f03502a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8c7f6c71fb3abca8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a0ef460a4694ef8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0e9168a9fa4f5204",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc2e6d8de1002b4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1eef6c16b737fc2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Enclave/Library.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0204cb6846ebbd72",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Enclave/Library.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c69aa2143590203e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b8a424b1a7dac387",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "23624565a80bd030",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Enclave/Library.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fab0a4da77c4d4f1",
+  "lastOpenFiles": [
+    "AGENTS.md",
+    "00 Overview.md",
+    "01 Enclave/Enclave Overview.md",
+    "01 Enclave/Modules.md",
+    "01 Enclave/Library.md",
+    "01 Enclave/Module Management.md",
+    "01 Enclave/Layouts.md",
+    "01 Enclave/Windows.md",
+    "01 Enclave/Workspace Context.md",
+    "03 Techincal/Architecture/Tech Stack.md",
+    "02 Modules/Dice Roller.md",
+    "02 Modules/Notes.md",
+    "02 Modules/Soundboard.md",
+    "02 Modules/Player Screen.md",
+    "02 Modules/Party Viewer.md",
+    "02 Modules/Map Viewer.md",
+    "02 Modules/Initiative Tracker.md",
+    "02 Modules/Image Viewer.md",
+    "02 Modules/Generators.md",
+    "02 Modules/Encounter Builder.md",
+    "02 Modules/Dungeon Viewer.md",
+    "00 Glossary.md",
+    "z_Resources/Templates/Module.md",
+    "z_Resources/Templates/Untitled 1.md",
+    "z_Resources/Templates",
+    "z_Resources",
+    "01 Enclave",
+    "99 Archive",
+    "09 References/Screenshots",
+    "09 References/Insspiration",
+    "09 References/External Research",
+    "09 References",
+    "04 Decisions",
+    "03 Techincal/Architecture",
+    "02 Development/Untitled.md",
+    "Welcome.md"
+  ]
+}
