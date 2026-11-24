@@ -19,6 +19,15 @@ Enclave is a modular workspace for preparing and running tabletop RPG sessions. 
 - [x] Outlined Enclave's core workspace features.
 - [x] Outlined the initial modules and their potential future functionality.
 - [x] Selected the initial technology stack.
-- [ ] Create AGENTS.md establishing development guidelines and the role of Codex.
-- [ ] Create Github repository
+- [x] Create AGENTS.md establishing development guidelines and the role of Codex.
+- [x] Create Github repository
 - [ ] Begin architectural research and plan the initial Enclave implementation.
+	- [x] [[State Ownership]]
+	- [ ] [[Separation of Concerns]]
+	- [ ] [[Window Definitions]]
+	- [ ] [[Persistence Behavior]]
+	- [ ] [[Vertical Slices]]
+
+
+# Later Considerations 
+- Contract between Enclave and Modules

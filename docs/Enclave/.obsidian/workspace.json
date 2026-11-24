@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "09 References/External Research/State Ownership.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "State Ownership"
+            }
+          },
+          {
+            "id": "fd24c8b72574432e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "00 Overview.md",
                 "mode": "source",
                 "source": false
@@ -20,8 +34,23 @@
               "icon": "lucide-file",
               "title": "00 Overview"
             }
+          },
+          {
+            "id": "bf1a8684b1f3508b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Decisions/ADR-001 State Ownership and Module Lifecycle Responsibilities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADR-001 State Ownership and Module Lifecycle Responsibilities"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,10 +217,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "fab0a4da77c4d4f1",
+  "active": "54f72cbd1f03502a",
   "lastOpenFiles": [
-    "AGENTS.md",
+    "09 References/External Research/State Ownership.md",
+    "09 References/External Research/Separation of Concerns.md",
+    "09 References/External Research/Persistence Behavior.md",
     "00 Overview.md",
+    "Things to think about.md",
+    "04 Decisions/ADR-001 State Ownership and Module Lifecycle Responsibilities.md",
+    "09 References/External Research/Vertical Slices.md",
+    "09 References/External Research/Window Definitions.md",
+    "AGENTS.md",
     "01 Enclave/Enclave Overview.md",
     "01 Enclave/Modules.md",
     "01 Enclave/Library.md",
@@ -209,11 +245,6 @@
     "02 Modules/Initiative Tracker.md",
     "02 Modules/Image Viewer.md",
     "02 Modules/Generators.md",
-    "02 Modules/Encounter Builder.md",
-    "02 Modules/Dungeon Viewer.md",
-    "00 Glossary.md",
-    "z_Resources/Templates/Module.md",
-    "z_Resources/Templates/Untitled 1.md",
     "z_Resources/Templates",
     "z_Resources",
     "01 Enclave",
@@ -223,8 +254,6 @@
     "09 References/External Research",
     "09 References",
     "04 Decisions",
-    "03 Techincal/Architecture",
-    "02 Development/Untitled.md",
-    "Welcome.md"
+    "03 Techincal/Architecture"
   ]
 }
